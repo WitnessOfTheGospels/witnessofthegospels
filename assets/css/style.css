@@ -740,7 +740,7 @@ ul.the-icons {
 /* carousel slider */
 
 /* ================= services ============================ */
-section#services {
+section#author {
 	background: url(../img/bg/bg-1.jpg) 50% 0 no-repeat;
 	width:100%;
 	height:auto;
@@ -748,16 +748,16 @@ section#services {
 }
 
 @media (min-width: 1024px) {
-	section#services {
+	section#author {
 		background-attachment: fixed;
 	}
 }
 
-#services .headline h3 {
+#author .headline h3 {
 	color:#fff;
 }
 
-#services .section-intro p {
+#author .section-intro p {
 	color:#f8f8f8;
 }
 
