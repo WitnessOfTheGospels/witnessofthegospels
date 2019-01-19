@@ -749,7 +749,7 @@ section#author {
 
 @media (min-width: 1024px) {
 	section#author {
-		background-attachment: fixed;
+		/* background-attachment: fixed; */
 	}
 }
 
