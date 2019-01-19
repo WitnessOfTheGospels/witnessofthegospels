@@ -29,7 +29,7 @@ body {
   font-size: 14px;
   line-height: 1.6em;
   color: #666;
-  background-color: #ffffff;
+  background-color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -740,6 +740,9 @@ ul.the-icons {
 /* carousel slider */
 
 /* ================= services ============================ */
+section#about, section#reviews, section#contact {
+	background-color: white;
+}
 section#author, section#volumes {
 	background: url(../img/bg/bg-1.png) 50% 0 no-repeat;
 	width:100%;
