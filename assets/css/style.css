@@ -740,17 +740,11 @@ ul.the-icons {
 /* carousel slider */
 
 /* ================= services ============================ */
-section#author {
+section#author, section#volumes {
 	background: url(../img/bg/bg-1.png) 50% 0 no-repeat;
 	width:100%;
 	height:auto;
 	margin:0;
-}
-
-@media (min-width: 1024px) {
-	section#author {
-		/* background-attachment: fixed; */
-	}
 }
 
 #author .headline h3 {
