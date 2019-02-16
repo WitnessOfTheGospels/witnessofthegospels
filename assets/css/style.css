@@ -754,10 +754,15 @@ section#author, section#volumes {
 	color:#fff;
 }
 
+#author .sub-heading {
+	margin-top: 0;
+}
 #author .section-intro p {
 	color:#f8f8f8;
 }
-
+#author .sub-heading p {
+	text-align: left;
+}
 .service-intro{
 	width:100%;
 	margin:30px 0 30px 0;
