@@ -326,6 +326,7 @@ section#intro {
 @media (max-width: 480px) {
 	section#intro {
 		background: #000 url(../img/bg/bg-purple.jpg) center/400% no-repeat;
+	}
 }
 
 @media (min-width: 1024px) {
